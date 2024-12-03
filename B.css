@@ -1,0 +1,36 @@
+.lion {
+    background-image: url(./image/lion.webp);
+    background-size: 100%;
+    background-size:auto contain;
+    width: 300px; height: 450px;
+}
+.tigr{
+    background-image: url(./image/tigr.webp);
+    background-size: 100%;
+    background-size:auto contain;
+    width: 300px; height: 425px; 
+}
+.elephant{
+    background-image: url(./image/elephant.webp);
+    background-size: 100%;
+    background-size:auto contain;
+    width: 300px; height: 290px; 
+}
+.cheetah{
+    background-image: url(./image/cheetah.webp);
+    background-size: 100%;
+    background-size:auto contain;
+    width: 300px; height: 200px; 
+}
+.zebra{
+    background-image: url(./image/zebra.webp);
+    background-size: 100%;
+    background-size:auto contain;
+    width: 300px; height: 525px;
+}
+.giraffe{
+    background-image: url(./image/giraffe.webp);
+    background-size: 100%;
+    background-size:auto contain;
+    width: 300px; height: 525px;
+}

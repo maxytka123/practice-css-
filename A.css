@@ -1,0 +1,23 @@
+h1{
+color: rgb(191, 48, 48);
+}
+.intro-text{
+    color: rgba(0,102 ,0 , 1);
+}
+.tech-list{
+    color:hsl(39, 100%, 50%);
+}
+.section-heading{
+    color:#ee82ee;
+}
+p{
+    color: hsla(9, 100%, 64%, 0.6);
+}
+h2{
+    color: hsla(hue, saturation, lightness, alpha);
+}
+/*  RGB HEX RGBA HSL */
+/* hex=#rrggbb */
+/* hsl - hue, saturation, lightness, */
+/* hsla - hue, saturation, lightness, alpha */
+/* очень крутой сайт для просмотра всех способов раскраски текста https://www.w3schools.com/css/css_colors_hex.asp */
